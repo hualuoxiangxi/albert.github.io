@@ -21,8 +21,8 @@ title: Mug
 description: "A free Jekyll theme for download"
 keywords: "Jekyll, theme, mug, free, download, SEO, blog, web"
 url: http://blog.adjt.com.cn
-baseurl: "/"
-domain_name: nandomoreira.me
+baseurl: ""
+domain_name: blog.adjt.com.cn
 # google_analytics: UA-52446115-1
 repo: https://github.com/hualuoxiangxi/albert.github.io
 disqus_shortname: "fernandomoreira"
