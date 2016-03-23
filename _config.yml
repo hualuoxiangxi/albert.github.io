@@ -20,18 +20,18 @@ name: Mug Jekyll theme
 title: Mug
 description: "A free Jekyll theme for download"
 keywords: "Jekyll, theme, mug, free, download, SEO, blog, web"
-url: http://nandomoreira.me
-baseurl: "/mug"
+url: http://blog.adjt.com.cn
+baseurl: "/albert.github.io"
 domain_name: nandomoreira.me
 # google_analytics: UA-52446115-1
-repo: http://github.com/nandomoreirame/mug
+repo: https://github.com/hualuoxiangxi/albert.github.io
 disqus_shortname: "fernandomoreira"
 
 author:
   name      : Fernando Moreira
   image     : /assets/images/author.jpg
   email     : nandomoreira.me@gmail.com
-  url       : http://nandomoreira.me
+  url       : http://blog.adjt.com.cn
   facebook  : http://facebook.com/fernando.dev
   twitter   : http://twitter.com/nandomoreirame
   instagram : http://instagram.com/nandomoreira.me
