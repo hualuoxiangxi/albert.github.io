@@ -3,6 +3,8 @@ title:
   category: 分類
   tag: 標籤
 
+author: 博主
+
 menu:
   home: 首頁
   archives: 歸檔
@@ -17,8 +19,10 @@ sidebar:
   toc: 文章目錄
 
 post:
+  sticky: 置頂
   posted: 發表於
   in: 分類於
+  visitors: 閱讀次數
   read_more: 閱讀全文
   untitled: 未命名
   toc_empty: 此文章未包含目錄
@@ -53,3 +57,17 @@ state:
   pages: 頁面
   tags: 標籤
   categories: 分類
+
+cheers:
+  um: 嗯..
+  ok: OK
+  nice: 好
+  good: 很好
+  great: 非常好
+  excellent: 激爆好
+
+keep_on: 繼續努力。
+
+symbol:
+  comma: '， '
+  period: '。 '
